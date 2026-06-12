@@ -219,7 +219,7 @@ npx n8n
 | HTTP Request → Send Body | turn ON |
 | Body Content Type | JSON |
 
-[⬆ Back to Top](#top)
+[Back to Top](#top)
 
 ---
 ---
@@ -417,7 +417,7 @@ npx n8n
 | HTTP Request → Send Body | ON করো |
 | Body Content Type | JSON |
 
-[⬆ উপরে যান](#top)
+[উপরে যান](#top)
 
 ---
 ---
@@ -613,7 +613,7 @@ npx n8n
 | HTTP Request → Send Body | ON करें |
 | Body Content Type | JSON |
 
-[⬆ ऊपर वापस जाएं](#top)
+[ऊपर वापस जाएं](#top)
 
 ---
 ---
@@ -809,7 +809,7 @@ npx n8n
 | HTTP Request → Send Body | Activar |
 | Body Content Type | JSON |
 
-[⬆ Volver arriba](#top)
+[Volver arriba](#top)
 
 ---
 ---
@@ -1005,7 +1005,7 @@ npx n8n
 | HTTP Request → Send Body | Activer |
 | Body Content Type | JSON |
 
-[⬆ Retour en haut](#top)
+[Retour en haut](#top)
 
 ---
 ---
@@ -1198,4 +1198,4 @@ npx n8n
 | HTTP Request → Method | من GET إلى POST |
 | HTTP Request → Send Body | فعّله |
 
-[⬆ العودة إلى الأعلى](#top)
+[العودة إلى الأعلى](#top)

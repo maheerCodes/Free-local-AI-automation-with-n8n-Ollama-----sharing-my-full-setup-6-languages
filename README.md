@@ -1,0 +1,1 @@
+# Free-local-AI-automation-with-n8n-Ollama-----sharing-my-full-setup-6-languages-

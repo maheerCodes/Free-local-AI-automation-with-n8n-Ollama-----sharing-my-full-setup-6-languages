@@ -1,8 +1,19 @@
----
-Title: n8n + Ollama Local AI Automation Guide
-Tags: [n8n, Ollama, Local LLM, RAG, Privacy-First AI, Zero-Cost]
-Languages: [English, Bengali, Hindi, Spanish, French, Arabic]
----
+<div align="center">
+<table align="center">
+  <tr>
+    <td><b>Title</b></td>
+    <td>n8n + Ollama Local AI Automation Guide</td>
+  </tr>
+  <tr>
+    <td><b>Tags</b></td>
+    <td>n8n, Ollama, Local LLM, RAG, Privacy-First AI, Zero-Cost</td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>English, Bengali, Hindi, Spanish, French, Arabic</td>
+  </tr>
+</table>
+</div>
 
 # n8n + Local LLMs (Ollama) — Cost-Free AI Automation Workflows
 ### A Step-by-Step Guide with Difficulty Levels & Troubleshooting

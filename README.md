@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Tags</b></td>
-    <td>n8n, ollama, local-llm, llama3, phi3, mistral-ai, ai-agents, rag, ai-automation, workflow-automation, privacy-first-ai, privacy-first, offline-ai, zero-cost-automation, self-hosted, docker, low-code, no-code, nodejs, multilingual</td>
+    <td>n8n, Ollama, Local LLM, RAG, Privacy-First, Zero-Cost, Automation</td>
   </tr>
   <tr>
     <td><b>Languages</b></td>
@@ -23,6 +23,14 @@
 ---
 
 ## 🇬🇧 ENGLISH
+
+### Quick Start (Import Workflow)
+Don't want to set up nodes manually? 
+1. Download the [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json) file.
+2. Open n8n, click on the **Workflow Menu** (top right) -> **Import from File**.
+3. Select the downloaded JSON file and you're ready to go!
+
+---
 
 ### Why This Guide?
 Most n8n + AI guides push you toward OpenAI API, which costs money per request. This guide shows how to connect **n8n with Ollama** (local LLMs like Llama 3, Mistral, Phi-3) so you can build automation workflows **completely free**, running on your own machine.
@@ -214,6 +222,14 @@ npx n8n
 
 ## 🇧🇩 বাংলা (Bengali)
 
+### দ্রুত শুরু করুন (ওয়ার্কফ্লো ইম্পোর্ট করুন)
+ম্যানুয়ালি নোড সেটআপ করতে চান না? 
+১. [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json) ফাইলটি ডাউনলোড করুন।
+২. n8n ওপেন করুন, উপরে ডানদিকের **Workflow Menu** -> **Import from File**-এ ক্লিক করুন।
+৩. ডাউনলোড করা JSON ফাইলটি সিলেক্ট করুন এবং আপনি কাজ শুরু করতে প্রস্তুত!
+
+---
+
 ### এই গাইড কেন?
 বেশিরভাগ n8n + AI গাইড তোমাকে OpenAI API ব্যবহার করতে বলে, যেখানে প্রতিটা রিকোয়েস্টে টাকা খরচ হয়। এই গাইডে দেখানো হবে কিভাবে **n8n কে Ollama (লোকাল LLM যেমন Llama 3, Mistral, Phi-3)** এর সাথে কানেক্ট করে সম্পূর্ণ ফ্রি অটোমেশন ওয়ার্কফ্লো বানানো যায়, যা তোমার নিজের কম্পিউটারে চলবে।
 
@@ -402,6 +418,14 @@ npx n8n
 
 ## 🇮🇳 हिन्दी (Hindi)
 
+### त्वरित शुरुआत (वर्कफ़्लो इम्पोर्ट करें)
+क्या आप मैन्युअल रूप से नोड्स सेटअप नहीं करना चाहते? 
+1. [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json) फ़ाइल डाउनलोड करें।
+2. n8n खोलें, ऊपर दाईं ओर **Workflow Menu** -> **Import from File** पर क्लिक करें।
+3. डाउनलोड की गई JSON फ़ाइल चुनें और आप तैयार हैं!
+
+---
+
 ### यह गाइड क्यों?
 ज़्यादातर n8n + AI गाइड्स आपको OpenAI API की तरफ ले जाते हैं, जिसमें हर रिक्वेस्ट का पैसा लगता है। यह गाइड दिखाएगा कि **n8n को Ollama (Llama 3, Mistral, Phi-3 जैसे लोकल LLM)** से कैसे जोड़ें ताकि आप अपने कंप्यूटर पर **पूरी तरह फ्री** ऑटोमेशन वर्कफ़्लो बना सकें।
 
@@ -587,6 +611,14 @@ npx n8n
 ---
 
 ## 🇪🇸 ESPAÑOL (Spanish)
+
+### Inicio rápido (Importar flujo de trabajo)
+¿No quieres configurar los nodos manualmente? 
+1. Descarga el archivo [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json).
+2. Abre n8n, haz clic en el **Workflow Menu** (arriba a la derecha) -> **Import from File**.
+3. Selecciona el archivo JSON descargado y ¡listo para empezar!
+
+---
 
 ### ¿Por qué esta guía?
 La mayoría de guías de n8n + IA te dirigen hacia la API de OpenAI, que cobra por cada solicitud. Esta guía muestra cómo conectar **n8n con Ollama (LLMs locales como Llama 3, Mistral, Phi-3)** para crear flujos de automatización **completamente gratis**, en tu propia máquina.
@@ -774,6 +806,14 @@ npx n8n
 
 ## 🇫🇷 FRANÇAIS (French)
 
+### Démarrage rapide (Importer le workflow)
+Vous ne voulez pas configurer les nœuds manuellement ? 
+1. Téléchargez le fichier [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json).
+2. Ouvrez n8n, cliquez sur le **Workflow Menu** (en haut à droite) -> **Import from File**.
+3. Sélectionnez le fichier JSON téléchargé et vous êtes prêt !
+
+---
+
 ### Pourquoi ce guide ?
 La plupart des guides n8n + IA vous orientent vers l'API OpenAI, payante par requête. Ce guide montre comment connecter **n8n à Ollama (LLMs locaux comme Llama 3, Mistral, Phi-3)** pour créer des flux d'automatisation **entièrement gratuits**, sur votre propre machine.
 
@@ -959,6 +999,12 @@ npx n8n
 ---
 
 ## 🇸🇦 العربية (Arabic)
+
+### بدء سريع (استيراد تدفق العمل)
+لا تريد إعداد العقد يدوياً؟ 
+1. قم بتنزيل ملف [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json).
+2. افتح n8n، وانقر فوق **Workflow Menu** (في أعلى اليمين) -> **Import from File**.
+3. حدد ملف JSON الذي تم تنزيله وأنت مستعد للبدء!
 
 ### لماذا هذا الدليل؟
 معظم أدلة n8n + AI توجهك لاستخدام واجهة OpenAI API التي تتطلب الدفع مقابل كل طلب. يوضح هذا الدليل كيفية ربط **n8n بـ Ollama (نماذج محلية مثل Llama 3 و Mistral و Phi-3)** لبناء تدفقات أتمتة **مجانية بالكامل** تعمل على جهازك الخاص.

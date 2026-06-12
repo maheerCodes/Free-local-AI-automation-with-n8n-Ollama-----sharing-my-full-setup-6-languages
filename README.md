@@ -1,3 +1,4 @@
+<div id="top"></div>
 # n8n + Local LLMs (Ollama) — Cost-Free AI Automation Workflows
 ### A Step-by-Step Guide with Difficulty Levels & Troubleshooting
 ### Available in: [English](#-english), [বাংলা](#-বাংলা-bengali), [हिन्दी](#-हिन्दी-hindi), [Español](#-español-spanish), [Français](#-français-french), [العربية](#-العربية-arabic)
@@ -217,6 +218,8 @@ npx n8n
 | HTTP Request → Send Body | turn ON |
 | Body Content Type | JSON |
 
+[⬆ Back to Top](#top)
+
 ---
 ---
 
@@ -413,6 +416,8 @@ npx n8n
 | HTTP Request → Send Body | ON করো |
 | Body Content Type | JSON |
 
+[⬆ উপরে যান](#top)
+
 ---
 ---
 
@@ -606,6 +611,8 @@ npx n8n
 | HTTP Request → Method | GET से POST |
 | HTTP Request → Send Body | ON करें |
 | Body Content Type | JSON |
+
+[⬆ ऊपर वापस जाएं](#top)
 
 ---
 ---
@@ -801,6 +808,8 @@ npx n8n
 | HTTP Request → Send Body | Activar |
 | Body Content Type | JSON |
 
+[⬆ Volver arriba](#top)
+
 ---
 ---
 
@@ -995,6 +1004,8 @@ npx n8n
 | HTTP Request → Send Body | Activer |
 | Body Content Type | JSON |
 
+[⬆ Retour en haut](#top)
+
 ---
 ---
 
@@ -1185,3 +1196,5 @@ npx n8n
 | سؤال telemetry في n8n | `n` (اختياري) |
 | HTTP Request → Method | من GET إلى POST |
 | HTTP Request → Send Body | فعّله |
+
+[⬆ العودة إلى الأعلى](#top)

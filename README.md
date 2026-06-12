@@ -223,9 +223,9 @@ npx n8n
 ## 🇧🇩 বাংলা (Bengali)
 
 ### দ্রুত শুরু করুন (ওয়ার্কফ্লো ইম্পোর্ট করুন)
-ম্যানুয়ালি নোড সেটআপ করতে চান না? 
-১. [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json) ফাইলটি ডাউনলোড করুন।
-২. n8n ওপেন করুন, উপরে ডানদিকের **Workflow Menu** -> **Import from File**-এ ক্লিক করুন।
+ম্যানুয়ালি নোড সেটআপ করতে চান না? <br>
+১. [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json) ফাইলটি ডাউনলোড করুন।<br>
+২. n8n ওপেন করুন, উপরে ডানদিকের **Workflow Menu** -> **Import from File**-এ ক্লিক করুন।<br>
 ৩. ডাউনলোড করা JSON ফাইলটি সিলেক্ট করুন এবং আপনি কাজ শুরু করতে প্রস্তুত!
 
 ---

@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Tags</b></td>
-    <td>n8n, Ollama, Local LLM, RAG, Privacy-First AI, Zero-Cost</td>
+    <td>n8n, ollama, local-llm, llama3, phi3, mistral-ai, ai-agents, rag, ai-automation, workflow-automation, privacy-first-ai, privacy-first, offline-ai, zero-cost-automation, self-hosted, docker, low-code, no-code, nodejs, multilingual</td>
   </tr>
   <tr>
     <td><b>Languages</b></td>
@@ -19,6 +19,7 @@
   </tr>
 </table>
 </div>
+
 
 ## 🇬🇧 ENGLISH
 

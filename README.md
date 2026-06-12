@@ -26,7 +26,7 @@
 
 ### Quick Start (Import Workflow)
 Don't want to set up nodes manually? 
-1. Download the <a href="./Ollama_Basic_Workflow.json" download="Ollama_Basic_Workflow.json">[Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json)</a> file.
+1. Download the [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json) file.
 2. Open n8n, click on the **Workflow Menu** (top right) -> **Import from File**.
 3. Select the downloaded JSON file and you're ready to go!
 

